@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Click Setter</string>
+    <string name="accessibility_description">Performs scheduled screen taps that you configure in Click Setter.</string>
+</resources>
